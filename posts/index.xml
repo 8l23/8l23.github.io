@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My Note</title><link>/posts/</link><description>Recent content in Posts on My Note</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 02 Mar 2021 22:38:55 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Tue, 02 Mar 2021 22:38:55 +0800</pubDate><guid>/posts/hello-world/</guid><description>
+hello hugo
+hell world
+test of content
+ls -l go</description></item></channel></rss>
