@@ -1,17 +1,17 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "My Note"
 theme = "panr"
 
-hasCJKLanguage = true                  # has chinese/japanese/korean ?  # ×Ô¶¯¼ì²âÊÇ·ñ°üº¬ ÖĞÎÄ\ÈÕÎÄ\º«ÎÄ
+hasCJKLanguage = true                  # has chinese/japanese/korean ?  # è‡ªåŠ¨æ£€æµ‹æ˜¯å¦åŒ…å« ä¸­æ–‡\æ—¥æ–‡\éŸ©æ–‡
 summaryLength = 100
-paginate = 4                           # shows the number of articles  # Ê×Ò³ÏÔÊ¾ÎÄÕÂÊıÁ¿
+paginate = 4                           # shows the number of articles  # é¦–é¡µæ˜¾ç¤ºæ–‡ç« æ•°é‡
 enableEmoji = true
 googleAnalytics = ""                   # your google analytics id
 disqusShortname = ""                   # your discuss shortname
 
 
-[[menu.main]]                          # config your menu  # ÅäÖÃ²Ëµ¥
+[[menu.main]]                          # config your menu  # é…ç½®èœå•
   name = "Home"
   weight = 10
   identifier = "home"
@@ -33,12 +33,12 @@ disqusShortname = ""                   # your discuss shortname
   url = "/about/"
 
 [params]
-  subTitle = "the site subtitle"                                       # site's subTitle  # ÍøÕ¾¶ş¼¶±êÌâ
-  footerSlogan = "My spiritual home"                                   # site's footer slogan  # ÍøÕ¾Ò³½Å±êÓï
-  keywords = ["Hugo","theme","zozo"]                                  # site's keywords  # ÍøÕ¾¹Ø¼ü×Ö
-  description = "Hugo theme zozo example site."                        # site's description  # ÍøÕ¾ÃèÊö
-  enableMathJax = true                                                 # enable mathjax  # ÊÇ·ñÊ¹ÓÃmathjax£¨ÊıÑ§¹«Ê½£©
-  enableSummary = true                                                 # display the article summary  # ÊÇ·ñÏÔÊ¾ÎÄÕÂÕªÒª
+  subTitle = "the site subtitle"                                       # site's subTitle  # ç½‘ç«™äºŒçº§æ ‡é¢˜
+  footerSlogan = "My spiritual home"                                   # site's footer slogan  # ç½‘ç«™é¡µè„šæ ‡è¯­
+  keywords = ["Hugo","theme","zozo"]                                  # site's keywords  # ç½‘ç«™å…³é”®å­—
+  description = "Hugo theme zozo example site."                        # site's description  # ç½‘ç«™æè¿°
+  enableMathJax = true                                                 # enable mathjax  # æ˜¯å¦ä½¿ç”¨mathjaxï¼ˆæ•°å­¦å…¬å¼ï¼‰
+  enableSummary = true                                                 # display the article summary  # æ˜¯å¦æ˜¾ç¤ºæ–‡ç« æ‘˜è¦
   mainSections = ["posts","post"]
 
 
